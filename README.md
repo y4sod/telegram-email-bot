@@ -1,5 +1,9 @@
 # Telegram Email Forwarding Bot
 
+| [Home](https://y4sod.github.io/telegram-email-bot/) | [Privacy Policy](https://y4sod.github.io/telegram-email-bot/privacy.html) | [Terms of Service](https://y4sod.github.io/telegram-email-bot/) |
+
+---
+
 A bot that forwards emails from your Gmail account to Telegram.
 
 ## Privacy Policy
@@ -20,7 +24,7 @@ A bot that forwards emails from your Gmail account to Telegram.
 3. Find "Telegram Email Bot" and click "Remove"
 
 ### Contact
-For any questions, contact: [your email]
+For any questions, contact: manipatruniyasod@gmail.com
 
 ## Terms of Service
 
